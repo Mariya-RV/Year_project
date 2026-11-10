@@ -1,0 +1,21 @@
+# Python
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Medical documents
+data/images/
+data/raw_pdf/
+data/external/images/
+
+# Metadata potentially containing personal information
+data/metadata.csv
+data/pages.csv
+data/external_metadata.csv
+
+# Local environment and system files
+.env
+.env.*
+.DS_Store
