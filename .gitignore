@@ -5,11 +5,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 
-# Medical documents
-data/images/
-data/raw_pdf/
-data/external/images/
-
 # Metadata potentially containing personal information
 data/metadata.csv
 data/pages.csv
